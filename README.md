@@ -26,4 +26,3 @@ A simple Pong game, made with Godot & Rust through GDNative.
 
 ## License
 This repository is licensed with GNU GPL v2. Please see [LICENSE.md](./LICENSE.md) for more details.
-

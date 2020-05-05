@@ -1,0 +1,11 @@
+[package]
+name = "rust-simple-pong"
+version = "0.1.0"
+authors = ["Giovanni Dejan <giovanni.dejan@binus.ac.id>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+gdnative = "0.8.0"
